@@ -5,4 +5,4 @@ dom css manipulation. We can cooperate together to make this come into real!
 
 Expecting your code!
 Let's make it easier and faster!
-my own raw javascript library for manipulation of DOM, like jquery, but extend some new features and is not so big like those libraries and can be used by functions
+a raw javascript library for manipulation of DOM, like jquery, but extend some new features and is not so big like those libraries and can be used by functions
