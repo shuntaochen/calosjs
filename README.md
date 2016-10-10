@@ -1,6 +1,6 @@
 # calosjs
 The aim of this library is to simplify the usage of that jQuery $ object, and add all function to current scope.
-Any one who has interest can join in this project, I have implemented some features and some common functions like queue, animation,
+Anyone who has interest can join this project, I have implemented some features and some common functions like queue, animation,
 dom css manipulation. We can cooperate together to make this come into real!
 
 Expecting your code!
