@@ -1,7 +1,7 @@
 # calosjs
 The aim of this library is to simplify the usage of that jQuery $ object, and add all function to current scope.
 Anyone who has interest can join this project, I have implemented some features and some common functions like queue, animation,
-dom css manipulation. We can cooperate together to make this come into real!
+dom css manipulation. We can cooperate together to make this come into real.
 The cool part of this library is the usage which always comes with the object id or element itself, and the optionals are always on the right but the function declarations are always on the left, and support element chain call.
 When it is written, the style is like below:
 
