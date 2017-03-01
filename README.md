@@ -10,4 +10,6 @@ so, it is a very pretty style, at least in my opinion, how do you feel?
 If you are interested, you can also contribute to this project.
 I'm expecting any kind guy who can give aid on this style.
 
+#introduction
 a raw javascript library for manipulation of DOM, like jquery, but extends some new features and is not so big like those libraries and can be used by functions like PHP.
+
